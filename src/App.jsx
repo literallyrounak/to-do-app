@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <ToDoList />
+      <a href="https://github.com/literallyrounak">View my Github</a>
     </div>
   );
 }
